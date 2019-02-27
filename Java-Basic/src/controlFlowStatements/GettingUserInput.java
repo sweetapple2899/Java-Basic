@@ -21,7 +21,7 @@ public class GettingUserInput {
 		int confPassNumber = input.nextInt();
 		
 		while (confPassNumber != passNumber) {
-			System.out.println("Please try again");
+			System.out.println("Please try again.. Wrong confirmation number");
 			confPassNumber = input.nextInt();
 			
 			if (confPassNumber == passNumber) {
