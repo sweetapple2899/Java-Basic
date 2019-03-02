@@ -26,7 +26,7 @@ public class MultiArray1 {
 		values[3][2] = 1999;
 		values[4][2] = 2006;
 		
-		System.out.println("Day\t" + "Month\t" + "Year\t");
+		System.out.println("Day\t" + "Month\t" + "Year");
 		
 		for (int row = 0; row < values.length; row++) {
 			for (int col = 0; col < values[row].length; col++) {
