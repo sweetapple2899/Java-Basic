@@ -45,9 +45,7 @@ public class GettersAndReturn {
 		
 		int years = employee.calculateYearsToRetire();
 		
-		System.out.println("Years till retirement is " + years); // output is "Years till retirement is 45"
-		System.out.println();
-		
+		System.out.println("Years till retirement is " + years); // output is "Years till retirement is 45"		
 		
 	}
 
