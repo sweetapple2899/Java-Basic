@@ -2,7 +2,7 @@ package classesAndObjects;
 
 public class SettersAndThis { 
 	
-	// Suppose class Intro is person that has variable name and age
+	// Suppose class SettersAndThis  is person that has variable name and age
 	
 	// instance variable name and age
 	String name;
