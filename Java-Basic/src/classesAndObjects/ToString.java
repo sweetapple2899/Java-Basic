@@ -1,6 +1,5 @@
 package classesAndObjects;
 
-
 public class ToString {
 	
 	// Suppose that class ToString is an animal for example bird
@@ -24,8 +23,8 @@ public class ToString {
 		ToString bird1 = new ToString(1, "Cendrawasih");
 		ToString bird2 = new ToString(2, "Merak");
 		
-		System.out.println(bird1);
-		System.out.println(bird2);
+		System.out.println(bird1); // The output is "1 : Cendrawasih"
+		System.out.println(bird2); // The output is "1 : Merak"
 	}
 
 }
